@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillaume Gex | Roma Poberejsky</title>
+    <link>https://rpober.github.io/author/guillaume-gex/</link>
+      <atom:link href="https://rpober.github.io/author/guillaume-gex/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guillaume Gex</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rpober.github.io/images/icon_hue21b47c62e4cdef237a2050f31ce3f02_5226_512x512_fill_lanczos_center_3.png</url>
+      <title>Guillaume Gex</title>
+      <link>https://rpober.github.io/author/guillaume-gex/</link>
+    </image>
+    
+    <item>
+      <title>The European nuclear family</title>
+      <link>https://rpober.github.io/publication/electricity/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/electricity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

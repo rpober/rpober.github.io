@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Roma Poberejsky</title>
+    <link>https://rpober.github.io/publication-type/0/</link>
+      <atom:link href="https://rpober.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rpober.github.io/images/icon_hue21b47c62e4cdef237a2050f31ce3f02_5226_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://rpober.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>The European nuclear family</title>
+      <link>https://rpober.github.io/publication/electricity/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/electricity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One bank to rule them all</title>
+      <link>https://rpober.github.io/publication/kontrollbank/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/kontrollbank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mark of Cain: Long-term effects of foreclosure</title>
+      <link>https://rpober.github.io/publication/foreclosure/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/foreclosure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bank lending relations and downstream competition</title>
+      <link>https://rpober.github.io/publication/common_lending/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/common_lending/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

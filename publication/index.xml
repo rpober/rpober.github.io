@@ -1,65 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Job Candidate</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Roma Poberejsky</title>
+    <link>https://rpober.github.io/publication/</link>
+      <atom:link href="https://rpober.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rpober.github.io/images/icon_hue21b47c62e4cdef237a2050f31ce3f02_5226_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://rpober.github.io/publication/</link>
     </image>
     
     <item>
-      <title>Job market paper</title>
-      <link>/publication/job-market_paper/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/job-market_paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>The European nuclear family</title>
+      <link>https://rpober.github.io/publication/electricity/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/electricity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interlocking directorates, competition, and innovation</title>
+      <link>https://rpober.github.io/publication/jmp_directors/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/jmp_directors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One bank to rule them all</title>
+      <link>https://rpober.github.io/publication/kontrollbank/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/kontrollbank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mark of Cain: Long-term effects of foreclosure</title>
+      <link>https://rpober.github.io/publication/foreclosure/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/foreclosure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bank lending relations and downstream competition</title>
+      <link>https://rpober.github.io/publication/common_lending/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/common_lending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of vendor allowances on market prices</title>
+      <link>https://rpober.github.io/publication/ica_grocery/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/ica_grocery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial competition in retail diesel [Hebrew]</title>
+      <link>https://rpober.github.io/publication/ica_diesel/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/ica_diesel/</guid>
+      <description>&lt;p&gt;Media coverage: 
+&lt;a href=&#34;https://www.globes.co.il/news/article.aspx?did=1001212303&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globes&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/working-paper-1/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/working-paper-1/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>Increasing competition in aggregate quarrying [Hebrew]</title>
+      <link>https://rpober.github.io/publication/ica_quarrying/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/ica_quarrying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial competition in retail gasoline [Hebrew]</title>
+      <link>https://rpober.github.io/publication/ica_gasoline/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/ica_gasoline/</guid>
+      <description>&lt;p&gt;Media coverage:
+
+&lt;a href=&#34;https://www.globes.co.il/news/article.aspx?did=1001203662&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Globes&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.themarker.com/dynamo/2023-06-21/ty-article/.premium/00000188-dd0b-df52-a79d-dd2b9b540000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TheMarker&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/published-paper/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The effect of mergers on equilibrium prices: evidence from Israeli provident funds</title>
+      <link>https://rpober.github.io/publication/fund_merger/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/fund_merger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Quality of Corporate Credit Rating: Evidence from Israel, 2005-2013</title>
+      <link>https://rpober.github.io/publication/credit_ratings/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://rpober.github.io/publication/credit_ratings/</guid>
+      <description></description>
     </item>
     
   </channel>
